@@ -23,6 +23,7 @@ data visualization
 ![image](https://github.com/gombumsoo/-technical_portfolio1/assets/69720752/1cc8f24d-f479-4b48-a852-feeb67e9d4ff)
 
 ### 우천 여부 시각화
+- 1이 우천, 0은 우천이 아님을 나타냄
 ![image](https://github.com/gombumsoo/-technical_portfolio1/assets/69720752/d54218d5-bd61-4c40-a335-835ecbfd0da9)
 
 ### 기온의 분포 그래프

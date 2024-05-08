@@ -1,8 +1,6 @@
 # technical_portfolio1
 data visualization
 
-# technical_portfolio  
-
 ## 기술 평가 항목
 8. R, Python, Tableau, Power BI 등을 활용한 데이터 시각화 능력
 ---

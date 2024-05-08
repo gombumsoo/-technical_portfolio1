@@ -7,7 +7,7 @@ data visualization
 ## 레포지토리 소개
 본 레포지토리는 KAMP에서 제공하는 [에너지(전력) 사용량 데이터](https://www.kamp-ai.kr/aidataDetail?AI_SEARCH=%EC%A0%84%EA%B8%B0&page=1&DATASET_SEQ=27&EQUIP_SEL=&GUBUN_SEL=&FILE_TYPE_SEL=&WDATE_SEL=)에 대한 시각화를 정리하고 있습니다. Visualization.ipynb 파일에서 진행했습니다.
 
-## 진행한 시각화 내용들
+## Python을 활용해 진행한 데이터 시각화
 
 ### Violin plot을 활용한 일별 평균 전력 소비량의 분포 확인
 ![image](https://github.com/gombumsoo/-technical_portfolio1/assets/69720752/03784d60-428b-4ef0-b145-b3c010a65f35)
